@@ -1,0 +1,13 @@
+.body__main--Container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.body__main--signUp,.body__main--logIn{
+    width:50%; 
+    display: flex;
+    justify-content: center;
+}
+.body__main--signUp{
+    background-color: white;
+}
